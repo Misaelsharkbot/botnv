@@ -2,6 +2,12 @@ let media = './Menu2.jpg'
 let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
 *Hola 👋🏻, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de The Shadow Borkers - Bot*
 
+*➤ Grupo oficial del Bot:*
+
+*1.-* https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao
+
+*2.-* https://chat.whatsapp.com/JSW9rrLeL5D5aVr7j023Pz
+
 *➤ Grupos oficiales del Bot:*
 *1.-* https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ
 
